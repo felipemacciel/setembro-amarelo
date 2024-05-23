@@ -1,46 +1,45 @@
-# Getting Started with Create React App
+# Projeto Setembro Amarelo
+![Setembro Amarelo](./src/Image/telas-setembro-amarelo.png)
+Gerador de apoio para a campanha de prevenção a suicídio - setembro amarelo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Índice
+- <a>Funcionalidades do Projeto</a>
+- <a>Layout</a>
+- <a>Demonstração</a>
+- <a>Como rodar este projeto?</a>
+- <a>Tecnologias Utilizadas</a>
 
-## Available Scripts
+## Funcionalidades do Projeto
+- [x] Upload da imagem
+- [x] Recorte e redimensionamento da usa imagem com o frame de apoio
+- [x] Download da imagem de apoio
+- [x] Perguntas frequentes
 
-In the project directory, you can run:
+## Layout
 
-### `npm start`
+![Inicio](./src/Image/inicio.jpg)
+![Recorte e Redimensionamento](./src/Image/recorte%20imagem.jpg)
+![Download da imagem](./src/Image/download%20image.jpg)
+![Perguntas frequentes](./src/Image/perguntas%20frequentes.jpg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## Como rodar este projeto?
+```bash
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Clone este repositório
+$ git clone linkrepo
 
-### `npm run build`
+# Acesse a pasta do projeto no seu terminal
+$ git clone linkrepo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Instale as dependências
+$ npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Execute a aplicação
+$ npm run start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Tecnologias Utilizadas
+1. [React](https://pt-br.legacy.reactjs.org/)
+2. [Typescript](https://www.typescriptlang.org/pt/docs/)
