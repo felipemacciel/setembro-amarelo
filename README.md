@@ -28,10 +28,10 @@ Gerador de apoio para a campanha de prevenção a suicídio - setembro amarelo
 ```bash
 
 # Clone este repositório
-$ git clone linkrepo
+$ git clone [linkrepo](https://github.com/felipemacciel/setembro-amarelo)
 
 # Acesse a pasta do projeto no seu terminal
-$ git clone linkrepo
+$ git clone [linkrepo](https://github.com/felipemacciel/setembro-amarelo)
 
 # Instale as dependências
 $ npm install
